@@ -1,4 +1,4 @@
-# Video-games-sql-analysis
+# Video games SQL analysis
 
 ## Description 
 This Portfolio project focuses on analysing data based on video games sales worldwide. Initially checking to see if there are any duplicates and then digging deeper into the dataset to help answer key questions.  
